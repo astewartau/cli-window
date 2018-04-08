@@ -1,0 +1,3 @@
+[submodule "ansi_colors"]
+	path = ansi_colors
+	url = https://github.com/astewartau/Python-ANSI-Colors
