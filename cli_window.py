@@ -112,8 +112,7 @@ class Window:
 
     @property
     def width(self):
-        """Get or set the window width > 0. Setting clears all cells.
-        """
+        """Get or set the window width > 0. Setting clears all cells."""
         return self._width
 
     @width.setter
@@ -144,8 +143,7 @@ class Window:
 
     @property
     def height(self):
-        """Get or set the window height > 0. Setting clears all cells.
-        """
+        """Get or set the window height > 0. Setting clears all cells."""
         return self._height
 
     @height.setter
