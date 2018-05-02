@@ -8,7 +8,7 @@ by the ansi_colors submodule.
 ## Setup
 
 After cloning the repository, ensure you run the following commands to
-initialise the require submodule:
+initialise the required submodule:
 
     git submodule init
 	git submodule update
