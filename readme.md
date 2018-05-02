@@ -43,8 +43,8 @@ print(w)
 
 ### Screenshot Examples
 
-[Example 1](https://raw.githubusercontent.com/astewartau/cli-window/master/images/basic1.png)
+![Example 1](https://raw.githubusercontent.com/astewartau/cli-window/master/images/basic1.png)
 
-[Example 2](https://raw.githubusercontent.com/astewartau/cli-window/master/images/basic2.png)
+![Example 2](https://raw.githubusercontent.com/astewartau/cli-window/master/images/basic2.png)
 
-[Example 3](https://raw.githubusercontent.com/astewartau/cli-window/master/images/basic3.png)
+![Example 3](https://raw.githubusercontent.com/astewartau/cli-window/master/images/basic3.png)
