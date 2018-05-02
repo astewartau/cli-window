@@ -20,8 +20,8 @@ initialise the require submodule:
 ```
 w = Window(
     width=20,
-	height=5,
-	title='My Window'
+    height=5,
+    title='My Window'
 )
 
 print(w)
@@ -32,10 +32,10 @@ print(w)
 ```
 w = Window(
     width=20,
-	height=10,
-	title='My Window',
-	border_bg='yellow',
-	border_fg='black'
+    height=10,
+    title='My Window',
+    border_bg='yellow',
+    border_fg='black'
 )
 
 print(w)
